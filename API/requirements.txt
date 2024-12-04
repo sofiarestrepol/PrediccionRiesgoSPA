@@ -1,0 +1,12 @@
+lazypredict==0.2.13
+lightgbm==4.5.0
+matplotlib==3.7.5
+pycaret==3.3.2
+seaborn==0.13.2
+fastapi==0.115.5
+joblib==1.4.2
+pandas==2.2.3
+uvicorn==0.32.0
+numpy==1.24.3
+pydantic==2.10.2
+scikit-learn==1.5.2
